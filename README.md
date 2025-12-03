@@ -1,6 +1,3 @@
-# react-native-examples
-Example React Native screen from a production health &amp; wellness app.
-
 # React Native Commerce & Supplements Screens (Example)
 
 This repository contains two example screens from a real-world React Native
